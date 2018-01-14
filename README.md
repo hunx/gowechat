@@ -4,6 +4,10 @@
 [![GoDoc](http://godoc.org/github.com/silenceper/wechat?status.svg)](http://godoc.org/github.com/silenceper/wechat)
 
 
+从github.com/silenceper/wechat拿过来，
+加了点小功能，方便使用，自己建了个仓库
+
+
 使用Golang开发的微信SDK，简单、易用。
 
 ## 快速开始

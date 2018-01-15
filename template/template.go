@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/silenceper/wechat/context"
-	"github.com/silenceper/wechat/util"
+	"github.com/keyunq/gowechat/context"
+	"github.com/keyunq/gowechat/util"
 )
 
 const (

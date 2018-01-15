@@ -4,7 +4,7 @@
 [![GoDoc](http://godoc.org/github.com/keyunq/gowechat?status.svg)](http://godoc.org/github.com/keyunq/gowechat)
 
 
-从[github.com/keyunq/gowechat](https://github.com/keyunq/gowechat)拿过来，
+从[github.com/silenceper/wechat](https://github.com/silenceper/wechat)拿过来，
 加了点小功能，为了方便使用，自己建了个仓库
 
 
